@@ -1,0 +1,10 @@
+Name:Big Burger          Price:15.5      
+Name:Small Burger        Price:10.5      
+Name:Small Sandwich      Price:35.5      
+Name:Big Burger2         Price:155.5     
+Name:Small Burger2       Price:350.5     
+Name:Small Sandwich2     Price:35.5      
+Name:Big Burger3         Price:55.5      
+Name:Small Burger3       Price:90.5      
+Name:Small Sandwich3     Price:75.5      
+Name:Large Pizza         Price:25.5      

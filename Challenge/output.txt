@@ -1,0 +1,11 @@
+Enter Name: Big Burger
+Enter Price: 15.14  50
+Name: Big Burger   Price: 15.5
+Enter Name: Small Burger  
+Enter Price: 10.50
+Name: Small Burger   Price: 10.5
+Enter Name: Small Sandwich
+Enter Price: 35.50
+Name: Small Sandwich   Price: 35.5
+
+
